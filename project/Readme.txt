@@ -1,5 +1,5 @@
 
-Dear sir, please follow the instruction below -
+please follow the instruction below -
 
 Step 1:
 	Go to "db" folder copy realestate.sql file
